@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-backend-eng-intern",
+  "version": "0.0.1",
+  "description": "A simple rule-validation API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "payload-validator": "^1.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/ifejesu/nodejs-backend-eng-intern"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
